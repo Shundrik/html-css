@@ -1,0 +1,43 @@
+
+.container{
+    width:944px ;
+margin-left: auto;
+margin-right: auto;
+
+}
+
+
+
+.site-logo {
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    text-decoration: none;
+    color: #fc6d00;
+    padding: 16px;
+}
+
+
+
+.nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    color: #fc6d00;
+}
+
+.page-nav {
+    display: flex;
+    gap: 40px;
+}
+
+.page-nav a {
+    text-decoration: none;
+    color: #000
+}
+
+.page-nav a:hover {
+    text-decoration: none;
+    color: #fc6d00
+}
